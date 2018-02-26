@@ -1,0 +1,40 @@
+/* add your CSS here */
+body {
+	border: thin solid #babbc0;
+	border-radius: 20px;
+	box-shadow: 14px 20px 32px -12px rgba(194,194,194,1);
+	font-family: "Segoe UI", sans-serif;
+	margin: 10px;
+	padding: 10px;
+	width: 340px;
+}
+
+img {
+	border-radius: 50%;
+	display:block;
+	margin: auto;
+	width: 300px;
+}
+
+.interesting {
+	font-style: italic;
+}
+
+.label {
+	font-weight: bold;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.information {
+	border-color: #babbc0;
+	border-radius: 10px;
+	border-style: solid;
+	border-width: thin;
+	margin: 10px;
+	padding: 15px;
+}
